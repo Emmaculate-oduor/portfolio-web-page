@@ -24,11 +24,11 @@ Check out my portfolio to explore these projects in detail.
 ## 📬 Contact Me
 If you'd like to collaborate or have any inquiries, feel free to reach out:
 - **Email:** oduoremaculate752gmail.com
-- **GitHub:** <a href="https://github.com/Emmaculate-oduor/"></a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/emmaculate-oduor-a5711b320/"></a>
+- **GitHub:** <a href="https://github.com/Emmaculate-oduor/">Github Profile</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/emmaculate-oduor-a5711b320/">LinkedIn </a>
 
 ---
 ### 🌍 Live Portfolio
-Check out my portfolio website here: **<a href="https://emmaculate-oduor.github.io/portfolio-web-page/"></a>**
+Check out my portfolio website here: **<a href="https://emmaculate-oduor.github.io/portfolio-web-page/">Portfolio website</a>**
 
 💡 Feel free to clone, fork, or suggest improvements!
